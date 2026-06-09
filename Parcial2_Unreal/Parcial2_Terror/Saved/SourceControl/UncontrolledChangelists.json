@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/ImportedBlenderAssets/SM_pared_mdulo_lisa_001.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/ImportedBlenderAssets/SM_pared_mdulo_ventana.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/material_Pared.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/XG/P3Z3MSS0QUDQZPCBFU46FY.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/G3/S0DUNFZAK0LC5VSYX2O59O.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/89/ZI8S5TU8VN9NXMAGTE7ZM9.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/material_madera.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/VW/45JSVSE49EB7XVW48J1WFZ.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HQ/KEZCVS7KDY52GVSLEO58HH.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/MR/8ZWOTE271DTOYWVMLSZQZJ.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/plane_divided_DefaultMaterial_BaseColor.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/plane_divided_DefaultMaterial_Height.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/plane_divided_DefaultMaterial_Normal.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/plane_divided_DefaultMaterial_Metallic.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/pared_text/plane_divided_DefaultMaterial_Roughness.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/MasterMaterial/MasterMaterial.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/plane_divided_DefaultMaterial_BaseColor.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/plane_divided_DefaultMaterial_Normal.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/plane_divided_DefaultMaterial_Height.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/plane_divided_DefaultMaterial_Roughness.uasset",
+				"D:/Trabajos/TP2_Unreal/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Content/materials/madera_text/plane_divided_DefaultMaterial_Metallic.uasset"
+			]
+		}
+	]
+}
