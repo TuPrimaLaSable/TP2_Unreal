@@ -1,2 +1,3 @@
-2026/06/28-18:56:27.842 6588 Creating DB C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/28-18:56:27.865 6588 Reusing MANIFEST C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/29-22:57:38.367 2c04 Reusing MANIFEST C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/29-22:57:38.372 2c04 Recovering log #3
+2026/06/29-22:57:38.373 2c04 Reusing old log C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Saved/webcache_4430\Local Storage\leveldb/000003.log 
