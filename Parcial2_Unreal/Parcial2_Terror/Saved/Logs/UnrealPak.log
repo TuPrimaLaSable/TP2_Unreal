@@ -1,8 +1,8 @@
-﻿Log file open, 06/30/26 21:50:41
+﻿Log file open, 08/01/26 16:03:49
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-EF79ED434B5E915155F694B8A20874E6
+         Session CrashGUID >   UECC-Windows-709A3332453436AD0A3DEA81200ED9BA
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -14,7 +14,7 @@ LogInit: DeviceId=
 LogInit: Engine Version: 5.6.1-44394996+++UE5+Release-5.6
 LogInit: Compatible Engine Version: 5.6.0-43139311+++UE5+Release-5.6
 LogInit: Net CL: 43139311
-LogInit: OS: Windows 11 (25H2) [10.0.26200.8655] (), CPU: AMD Ryzen 5 9600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 5070
+LogInit: OS: Windows 11 (25H2) [10.0.26200.8875] (), CPU: AMD Ryzen 5 9600X 6-Core Processor             , GPU: NVIDIA GeForce RTX 5070
 LogInit: Compiled (64-bit): Jul 28 2025 21:09:38
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
@@ -71,70 +71,59 @@ LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred 
 LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
 LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
 LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2026.07.01-00.50.41:566][  0]LogInit: Computer: LA_PEPONEITOR
-[2026.07.01-00.50.41:566][  0]LogInit: User: creat
-[2026.07.01-00.50.41:566][  0]LogInit: CPU Page size=4096, Cores=6
-[2026.07.01-00.50.41:566][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2026.07.01-00.50.41:566][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2026.07.01-00.50.41:566][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx) Virtual=33.9GB
-[2026.07.01-00.50.41:566][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2026.07.01-00.50.41:566][  0]LogMemory: Process Physical Memory: 65.32 MB used, 65.32 MB peak
-[2026.07.01-00.50.41:566][  0]LogMemory: Process Virtual Memory: 119.13 MB used, 119.13 MB peak
-[2026.07.01-00.50.41:566][  0]LogMemory: Physical Memory: 17694.32 MB used,  14166.67 MB free, 31860.99 MB total
-[2026.07.01-00.50.41:566][  0]LogMemory: Virtual Memory: 27576.48 MB used,  7182.25 MB free, 34758.73 MB total
-[2026.07.01-00.50.41:634][  0]LogAssetRegistry: FAssetRegistry took 0.0177 seconds to start up
-[2026.07.01-00.50.41:636][  0]LogUObjectArray: 462 objects as part of root set at end of initial load.
-[2026.07.01-00.50.41:636][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2026.07.01-00.50.41:637][  0]LogInit: Using OS detected language ().
-[2026.07.01-00.50.41:637][  0]LogInit: Using OS detected locale ().
-[2026.07.01-00.50.41:637][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.07.01-00.50.41:637][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.07.01-00.50.41:637][  0]LogInit: Using OS detected language ().
-[2026.07.01-00.50.41:637][  0]LogInit: Using OS detected locale ().
-[2026.07.01-00.50.41:637][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.07.01-00.50.41:637][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.07.01-00.50.41:637][  0]LogPakFile: Display: ProjectDir: C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/
-[2026.07.01-00.50.41:638][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
-[2026.07.01-00.50.41:639][  0]LogPakFile: Engine only spawned 10 worker threads, bumping up to 11!
-[2026.07.01-00.50.41:640][  0]LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
-[2026.07.01-00.50.41:640][  0]LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
-[2026.07.01-00.50.41:642][  0]LogPakFile: Display: Loading pak order file C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Build\Windows\FileOpenOrder\CookerOpenOrder.log...
-[2026.07.01-00.50.41:657][  0]LogPakFile: Display: Finished loading pak order file C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Build\Windows\FileOpenOrder\CookerOpenOrder.log.
-[2026.07.01-00.50.41:657][  0]LogPakFile: Display: Loading response file D:\UNREAL ENGINE\UE_5.6\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_Parcial2_Terror-Windows.txt
-[2026.07.01-00.50.41:668][  0]LogPakFile: Display: Added 6117 entries to add to pak file.
-[2026.07.01-00.50.41:668][  0]LogPakFile: Display: Collecting files to add to pak file...
-[2026.07.01-00.50.41:684][  0]LogPakFile: Display: Collected 6117 files in 0.02s.
-[2026.07.01-00.50.41:685][  0]LogPakFile: Display: Creating pak C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Saved\StagedBuilds\Windows\Parcial2_Terror\Content\Paks\Parcial2_Terror-Windows.pak.
-[2026.07.01-00.50.41:691][  0]OodleDataCompression: Display: Oodle v2.9.13 format for pak/iostore with method=Kraken, level=4=Normal
-[2026.07.01-00.50.43:691][  0]LogPakFile: Display: Writing entries (3910/6117)...
-[2026.07.01-00.50.45:692][  0]LogPakFile: Display: Writing entries (5800/6117)...
-[2026.07.01-00.50.47:692][  0]LogPakFile: Display: Writing entries (6027/6117)...
-[2026.07.01-00.50.49:693][  0]LogPakFile: Display: Writing entries (6027/6117)...
-[2026.07.01-00.50.51:693][  0]LogPakFile: Display: Writing entries (6027/6117)...
-[2026.07.01-00.50.53:693][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.50.55:694][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.50.57:694][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.50.59:695][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.01:695][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.03:695][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.05:695][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.07:697][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.09:697][  0]LogPakFile: Display: Writing entries (6028/6117)...
-[2026.07.01-00.51.10:206][  0]LogPakFile: Display: Created pak file: C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Saved\StagedBuilds\Windows\Parcial2_Terror\Content\Paks\Parcial2_Terror-Windows.pak
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: CompressionFormat 0 [Oodle] : 4199 files, 2510582195 -> 1016951268 bytes
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: CompressionFormat 2 [None] : 1918 files, 237389037 -> 237389037 bytes
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: Added 6117 files, 1258656004 bytes total
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: PrimaryIndex size: 244222 bytes
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: PathHashIndex size: 105352 bytes
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: FullDirectoryIndex size: 250581 bytes
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: Compression summary: 40.51% of original size. Compressed Size 1016951268 bytes, Original Size 2510582195 bytes. 
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: Encryption - DISABLED
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: 
-[2026.07.01-00.51.10:251][  0]LogPakFile: Display: Writer and Compression Threads exited.
-[2026.07.01-00.51.10:253][  0]LogPakFile: Display: UnrealPak executed in 28.616158 seconds
-[2026.07.01-00.51.10:267][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2026.07.01-00.51.10:267][  0]LogExit: Preparing to exit.
-[2026.07.01-00.51.10:300][  0]LogExit: Object subsystem successfully closed.
-[2026.07.01-00.51.10:300][  0]LogPakFile: Destroying PakPlatformFile
-[2026.07.01-00.51.10:303][  0]LogExit: Exiting.
-[2026.07.01-00.51.10:320][  0]Log file closed, 06/30/26 21:51:10
+[2026.08.01-19.03.49:462][  0]LogInit: Computer: LA_PEPONEITOR
+[2026.08.01-19.03.49:462][  0]LogInit: User: creat
+[2026.08.01-19.03.49:462][  0]LogInit: CPU Page size=4096, Cores=6
+[2026.08.01-19.03.49:462][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.08.01-19.03.49:463][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.08.01-19.03.49:463][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx) Virtual=40.1GB
+[2026.08.01-19.03.49:463][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.08.01-19.03.49:463][  0]LogMemory: Process Physical Memory: 65.41 MB used, 65.41 MB peak
+[2026.08.01-19.03.49:463][  0]LogMemory: Process Virtual Memory: 118.64 MB used, 118.64 MB peak
+[2026.08.01-19.03.49:463][  0]LogMemory: Physical Memory: 15887.13 MB used,  15973.86 MB free, 31860.99 MB total
+[2026.08.01-19.03.49:463][  0]LogMemory: Virtual Memory: 25558.84 MB used,  15518.16 MB free, 41076.99 MB total
+[2026.08.01-19.03.49:478][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2026.08.01-19.03.49:481][  0]LogUObjectArray: 462 objects as part of root set at end of initial load.
+[2026.08.01-19.03.49:481][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.08.01-19.03.49:481][  0]LogInit: Using OS detected language ().
+[2026.08.01-19.03.49:481][  0]LogInit: Using OS detected locale ().
+[2026.08.01-19.03.49:481][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.08.01-19.03.49:482][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.08.01-19.03.49:482][  0]LogInit: Using OS detected language ().
+[2026.08.01-19.03.49:482][  0]LogInit: Using OS detected locale ().
+[2026.08.01-19.03.49:482][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.08.01-19.03.49:482][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.08.01-19.03.49:482][  0]LogPakFile: Display: ProjectDir: C:/Users/creat/Documents/GitHub/TP2_Unreal/Parcial2_Unreal/Parcial2_Terror/
+[2026.08.01-19.03.49:490][  0]LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2026.08.01-19.03.49:491][  0]LogPakFile: Engine only spawned 10 worker threads, bumping up to 11!
+[2026.08.01-19.03.49:492][  0]LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2026.08.01-19.03.49:492][  0]LogPakFile: Display: Oodle enabled on 'NoPluginCompression' files
+[2026.08.01-19.03.49:493][  0]LogPakFile: Display: Loading pak order file C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Build\Windows\FileOpenOrder\CookerOpenOrder.log...
+[2026.08.01-19.03.49:528][  0]LogPakFile: Display: Finished loading pak order file C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Build\Windows\FileOpenOrder\CookerOpenOrder.log.
+[2026.08.01-19.03.49:529][  0]LogPakFile: Display: Loading response file D:\UNREAL ENGINE\UE_5.6\Engine\Programs\AutomationTool\Saved\ResponseFiles\PakList_Parcial2_Terror-Windows.txt
+[2026.08.01-19.03.49:542][  0]LogPakFile: Display: Added 7280 entries to add to pak file.
+[2026.08.01-19.03.49:542][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2026.08.01-19.03.49:562][  0]LogPakFile: Display: Collected 7280 files in 0.02s.
+[2026.08.01-19.03.49:564][  0]LogPakFile: Display: Creating pak C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Saved\StagedBuilds\Windows\Parcial2_Terror\Content\Paks\Parcial2_Terror-Windows.pak.
+[2026.08.01-19.03.49:582][  0]OodleDataCompression: Display: Oodle v2.9.13 format for pak/iostore with method=Kraken, level=4=Normal
+[2026.08.01-19.03.51:581][  0]LogPakFile: Display: Writing entries (3400/7280)...
+[2026.08.01-19.03.53:582][  0]LogPakFile: Display: Writing entries (5945/7280)...
+[2026.08.01-19.03.55:583][  0]LogPakFile: Display: Writing entries (7168/7280)...
+[2026.08.01-19.03.55:624][  0]LogPakFile: Display: Created pak file: C:\Users\creat\Documents\GitHub\TP2_Unreal\Parcial2_Unreal\Parcial2_Terror\Saved\StagedBuilds\Windows\Parcial2_Terror\Content\Paks\Parcial2_Terror-Windows.pak
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: CompressionFormat 0 [Oodle] : 5354 files, 3208622976 -> 1295619509 bytes
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: CompressionFormat 2 [None] : 1926 files, 239364684 -> 239364684 bytes
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: Added 7280 files, 1540426142 bytes total
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: PrimaryIndex size: 305806 bytes
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: PathHashIndex size: 119308 bytes
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: FullDirectoryIndex size: 310363 bytes
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: Compression summary: 40.38% of original size. Compressed Size 1295619509 bytes, Original Size 3208622976 bytes. 
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: Encryption - DISABLED
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: 
+[2026.08.01-19.03.55:725][  0]LogPakFile: Display: Writer and Compression Threads exited.
+[2026.08.01-19.03.55:729][  0]LogPakFile: Display: UnrealPak executed in 6.246153 seconds
+[2026.08.01-19.03.55:741][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.08.01-19.03.55:741][  0]LogExit: Preparing to exit.
+[2026.08.01-19.03.55:744][  0]LogExit: Object subsystem successfully closed.
+[2026.08.01-19.03.55:744][  0]LogPakFile: Destroying PakPlatformFile
+[2026.08.01-19.03.55:745][  0]LogExit: Exiting.
+[2026.08.01-19.03.55:763][  0]Log file closed, 08/01/26 16:03:55
