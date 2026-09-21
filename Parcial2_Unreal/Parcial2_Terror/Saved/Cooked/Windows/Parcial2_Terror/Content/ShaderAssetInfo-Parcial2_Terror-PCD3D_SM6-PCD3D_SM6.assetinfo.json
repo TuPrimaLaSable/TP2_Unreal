@@ -1,0 +1,1645 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "F85B6D008D94DA21FF004E8F76165BD3AF56FDF7",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "AB5AD600ECB0440638B2B0C8C5BA8F0EB380BC0B",
+			"Assets": [
+				"/Game/Props/Atico/cuadro/cuadro",
+				"/Game/Props/Atico/cuadro/cuadro1",
+				"/Game/Props/Atico/cuadro/cuadro2",
+				"/Game/Props/Banio/jabones/01_-_Default",
+				"/Game/Props/Cocina/alfombra/115_Braided_carpet",
+				"/Game/Props/comedor/hanger/Wood",
+				"/Game/Props/comedor/planta/Tropical_Plant",
+				"/Game/Props/Cuarto_nenes/cucheta/sabanas_txt",
+				"/Game/Props/Cuarto_nenes/robot__toy/Materials/robot"
+			]
+		},
+		{
+			"ShaderMapHash": "605EED0280778399934BEA18B67DC896A06144A4",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DA1BEC05186567DCD4969E5BBCD464A9610B01A3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2FBC2606C39F5CE3DCE19711457E6A45FBA646B3",
+			"Assets": [
+				"/Game/Props/Banio/laundy/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "E88797072C54D3AB3BA9BE2652FD3798F2EEB6B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "0F5B8908C711540BC76032A5021B061A70C6CDD4",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Box_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "5271C50884A227FE05A352513082F8B6E582DC6B",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "27641C0B674BD502398CF7D96B560BDA348CE249",
+			"Assets": [
+				"/Game/FogArea/Materials/M_FogArea"
+			]
+		},
+		{
+			"ShaderMapHash": "BA16850BB63CD65C96ECF31D6C59DF5BDCE2246A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3BD9E40DB0123F215933FF73C384B9ED5BCFAA12",
+			"Assets": [
+				"/Game/Props/Banio/toallas/toalla_blanca",
+				"/Game/Props/Banio/toallas/toalla_blanca_001"
+			]
+		},
+		{
+			"ShaderMapHash": "B5648B0E78C4B7E4337F8ECCEA9DB2BDF9C35FA0",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1B064510F4EB8EDB03D538F008595173F8352D8E",
+			"Assets": [
+				"/Game/Props/Atico/dusty_old_bookshelf_free/Materials/Old_Dusty_Bookshelf_Spiderwebs_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D85D541070B303E72671B659CAAA01F0F1E155BE",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_DF"
+			]
+		},
+		{
+			"ShaderMapHash": "34679610CAF58C7D58F2971F2536F45F7BDCF816",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "104081110546CDC839BF270A5986A6563A7235B3",
+			"Assets": [
+				"/Game/Props/Banio/jabones/02_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "1996C41156A8DCB2B4C9C0B9D813F69F53624BEF",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "584806140FD7EDEC847EBC31806E9AA9A1BDB093",
+			"Assets": [
+				"/Game/Props/Banio/hair_dryer/Materials/0099_LightSteelBlue",
+				"/Game/Props/Banio/hair_dryer/Materials/0117_GhostWhite",
+				"/Game/Props/Banio/hair_dryer/Materials/0130_Gainsboro",
+				"/Game/Props/Banio/hair_dryer/Materials/0134_DimGray",
+				"/Game/Props/Banio/hair_dryer/Materials/0135_DarkGray",
+				"/Game/Props/Banio/hair_dryer/Materials/edge_color211238249255",
+				"/Game/Props/Banio/hair_dryer/Materials/material",
+				"/Game/Props/Banio/hair_dryer/Materials/material_0"
+			]
+		},
+		{
+			"ShaderMapHash": "14D6CC1540C006118A6CCB0437D6C3F95B724CCC",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "36AF6D18FF3BB86641CB1BDA9911C08210AA3892",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "6521E7180894F5C0776F8B11FFB2AC5D90587F09",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "EDBED81AF9C9A939F6CA96872A6F1BA28CF0B1D3",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "FE1E1A1B1B30CB43EE67FBB94E40CD057DF69036",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "83F5611B6912F4D7573AF4E4A3521CBF59330669",
+			"Assets": [
+				"/Game/Props/Banio/isopos/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "176A381C96A95AF2B86B09FFA9D39D6425C2A796",
+			"Assets": [
+				"/Game/Props/CuartoPadres/mesitaLuz/Fbx_Default_Material_1"
+			]
+		},
+		{
+			"ShaderMapHash": "29537C1E72FAC986A532044A9776FF598CE7773C",
+			"Assets": [
+				"/Game/Props/CuartoPadres/luzmesita/M_lamp_1_glass"
+			]
+		},
+		{
+			"ShaderMapHash": "CCF61920FC722AD3F6A0E2BDD6984947018745D7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "FF328E208383CF5EC33C277FCD06A70AD4F703B7",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "15D29B227CBF8F7D98276FC806006343E52B1FE4",
+			"Assets": [
+				"/Game/Props/comedor/cortina/fabric"
+			]
+		},
+		{
+			"ShaderMapHash": "2A0AE423461B8C3C8ACB6AE1CDA486EB612D6B9D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "02FB2924D2942EFFB55A20A969D7B7C7D35C2A21",
+			"Assets": [
+				"/Game/Props/Atico/mochila_militar/Materials/material0000",
+				"/Game/Props/Atico/old_book/Materials/book1_mtl",
+				"/Game/Props/CuartoPadres/low_poly_pack_alcohol_bottles/Materials/02_-_Default",
+				"/Game/Props/Estudio/old_fashioned_cabinet/Materials/lambert1SG"
+			]
+		},
+		{
+			"ShaderMapHash": "BC7A7924712C39243290D81C763C58E964CE642E",
+			"Assets": [
+				"/Game/Props/Banio/toallas/Barra"
+			]
+		},
+		{
+			"ShaderMapHash": "CF77AC26A3B88B4081C1F18B0E343EA3D73A8978",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1E0A9427FEAEA7C1335CD0595BFF6B9DAFA7ECB0",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E63917286F34D29A4F92141DF6617E7E6435342E",
+			"Assets": [
+				"/Game/Props/Cocina/florero/lo_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6A3C1D288CDB31558527516C890F1D67D03AC879",
+			"Assets": [
+				"/Game/Props/Cocina/licuadora/normal",
+				"/Game/Props/Cocina/tostadora/Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "FC277029DD4E424486658E8C1633D37059BA5C9D",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "87F5372A37BD8D1C38C4B5133B8B6D2CCB1975B8",
+			"Assets": [
+				"/Game/Props/decalbichote/decal_mm"
+			]
+		},
+		{
+			"ShaderMapHash": "AC1C922B5D1E95DA3DD2FC2982434A879791FD4B",
+			"Assets": [
+				"/Game/Props/livingRoom/tv/back"
+			]
+		},
+		{
+			"ShaderMapHash": "848DFE2B9EE079DE266C02D39A208EB3FBD2B22A",
+			"Assets": [
+				"/Game/Props/Cocina/propsVarios/glass/Materials/material",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/LampBulbMaterial",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/parfum"
+			]
+		},
+		{
+			"ShaderMapHash": "8A1A4F2D6F54C2366F5FDB17AA9702A3CCDA6100",
+			"Assets": [
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "7748822DAC2DBAFC59EF1F1C03FFD8B21B5E2A7E",
+			"Assets": [
+				"/Game/Props/Cocina/heladera/Mat_3"
+			]
+		},
+		{
+			"ShaderMapHash": "6C237A2E8604BABCA689F1EE8FC80DA3300C6EAC",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Box_DF"
+			]
+		},
+		{
+			"ShaderMapHash": "54512B33E5CEB66664F0627D0778B360BEDBDA78",
+			"Assets": [
+				"/Game/Props/Banio/parfum/Materials/Material__44",
+				"/Game/Props/Nucleo_bicho/horror_bed/Materials/Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "39E53033F4726C7F441732D43A54125FE5046D24",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New"
+			]
+		},
+		{
+			"ShaderMapHash": "EEF2FC33B03F6F4A1816F6EA9A30CD81CB73A350",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "29FCED343D20AF15F66A4A374DBA2AAE8E6C2DEB",
+			"Assets": [
+				"/Game/Props/Cocina/licuadora/Plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "0DCA5F36C0A4416157CBD255612A32AE50CE7D08",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "23A7F0367B000C2ABC586AB3DA7BE2626854F228",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8C574B3A4F5F9FDCE2F10032A43880031EA6D123",
+			"Assets": [
+				"/Game/Props/Banio/brush/peine",
+				"/Game/Props/Banio/jabones/Material__44",
+				"/Game/Props/Banio/shampoo/Shampoo",
+				"/Game/Props/Banio/shampoo/Shampoo1",
+				"/Game/Props/Banio/shampoo/Shampoo2",
+				"/Game/Props/Banio/shampoo/Shampoo3",
+				"/Game/Props/Banio/shampoo/Shampoo4",
+				"/Game/Props/Banio/shampoo/Shampoo5",
+				"/Game/Props/Banio/shampoo/Shampoo6",
+				"/Game/Props/Banio/toalla/towels1_u1_v1",
+				"/Game/Props/livingRoom/muebleTV/m_mesa"
+			]
+		},
+		{
+			"ShaderMapHash": "CF629D3B62FC2721421EA9047A868FE52481377B",
+			"Assets": [
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Material_002",
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Soda2"
+			]
+		},
+		{
+			"ShaderMapHash": "DDB7A23B4E9DE2765488354FB3E8E6A6350215A8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "F0F9D33E64EDA10AF653D8550BE6F72F3D9867D5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F0459A41A068B4911719A3BF964E0FCD4C556A01",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "125D8E4250D8DDFC2F1079429F0C41E669960FD8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "30000A455ABFCDC00C20FF127B2136B3CF53A8E3",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "73AD4648F4FCE01577FDD3145137153DE49D50A4",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "CF0A1E4EE7693F7C8EE7C4702E6A82F0151A9DA3",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "7B0F6C4E3DFF75D54791FC9119E7C01BC2B3324D",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "966FA94F04A2C7C7DBCF5B870F844519076D422A",
+			"Assets": [
+				"/Game/Props/armería/Bandera/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "4E5BD34F3883AB094B398F77A0368231A5D516C4",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AAFDC45014962F580BD18BAA542AE7FF810C4B44",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Box_Shafts"
+			]
+		},
+		{
+			"ShaderMapHash": "6EC3F050CF96F5985F4F1CD248242D6164B4C784",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Box"
+			]
+		},
+		{
+			"ShaderMapHash": "1B6BC553190B87AFBA96AC2AB79C6B0FC3A38ABD",
+			"Assets": [
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Manija-Sifn_001",
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Soda",
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Tapa-Sifn",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/BOOKS_1__0"
+			]
+		},
+		{
+			"ShaderMapHash": "86BCB558E8F13ACA5F8E1014FD7855F43637FBA2",
+			"Assets": [
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Material_003"
+			]
+		},
+		{
+			"ShaderMapHash": "9DADE258E7CD08597074CF7CA24842F4DADE8C95",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "B392755A532F9481C6D8AAAD59260F9748CF5859",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Ashes_01",
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Fire_01",
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_Fire_02",
+				"/Game/Vefects/Free_Fire/Shared/Materials/MI_VFX_FireQuad_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E9D4565C31DD464EAF13DC2681C8565C8CE13FB6",
+			"Assets": [
+				"/Game/Props/CuartoPadres/medicine_frenadol/Materials/material_0",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_5",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_6",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_7",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_8",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_9",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_10",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_11",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/material_12"
+			]
+		},
+		{
+			"ShaderMapHash": "305A645DB2B6C34D577D96063161B690A1C0575D",
+			"Assets": [
+				"/Game/Props/Cocina/mixer/Plastic1"
+			]
+		},
+		{
+			"ShaderMapHash": "B99E6C5E0030E0F1E9F89D45ABFFC314DE8A828F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C7B1EB5F5AA9D334D84AB9DDED63F080A623DB3B",
+			"Assets": [
+				"/Game/Props/Estudio/typewriter/Materials/paper"
+			]
+		},
+		{
+			"ShaderMapHash": "705D44605952791B1B46BCDC07E625257EDE6955",
+			"Assets": [
+				"/Game/Props/Cuarto_nenes/elephant_toy/Materials/ELEPHANT_TOY",
+				"/Game/Props/CuartoPadres/marlboro_cigarettes/Materials/07_-_Default",
+				"/Game/Props/CuartoPadres/marlboro_cigarettes/Materials/08_-_Default",
+				"/Game/Props/Estudio/old_vintage_globe/Materials/material",
+				"/Game/Props/Estudio/old_vintage_globe/Materials/Metal",
+				"/Game/Props/Estudio/old_vintage_globe/Materials/Wood",
+				"/Game/Props/Estudio/table_from_a_gothic_library/Materials/stolik"
+			]
+		},
+		{
+			"ShaderMapHash": "817503618E317A553817EF6E04FB4656C33FDCE7",
+			"Assets": [
+				"/Game/Props/Cocina/heladera/Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "16A8AB63D7620E7081BCD87C6901706F4D811079",
+			"Assets": [
+				"/Game/Props/CuartoPadres/labial/NewMaterial1"
+			]
+		},
+		{
+			"ShaderMapHash": "1C191D67EC8C030852C02DE68BE2CB9FD488982F",
+			"Assets": [
+				"/Game/Props/armería/curved_sword_rack/Materials/M_CurvedSword_Rack",
+				"/Game/Props/armería/shield_rack/Materials/M_Shield_Rack",
+				"/Game/Props/Atico/old_simple_drawer/Materials/Material_None",
+				"/Game/Props/Estudio/library_desk_lamp/Materials/LampDeskGreen",
+				"/Game/Props/Estudio/victorian_curtains/Materials/curtains_wood",
+				"/Game/Props/Pasillo_SOTANO/retro_piano_1_/Materials/gangqin"
+			]
+		},
+		{
+			"ShaderMapHash": "52DEF16756D705A16A593F9BA621D6146372E1D1",
+			"Assets": [
+				"/Game/Props/armería/akm/Materials/material",
+				"/Game/Props/armería/armory_box/Materials/ArmoryBox_01a_001",
+				"/Game/Props/armería/poster/Materials/M_Paper",
+				"/Game/Props/Assets_propios/alfombraGLB/Materials/Alfombra",
+				"/Game/Props/Assets_propios/sillaGLB/Materials/Material_001",
+				"/Game/Props/Assets_propios/sillonGLB/Materials/Sillon",
+				"/Game/Props/Atico/old_books/Materials/Boker_MAT",
+				"/Game/Props/Atico/old_clock/Materials/clock",
+				"/Game/Props/Atico/old_hospital_bed_pbrgr/Materials/blanket",
+				"/Game/Props/Atico/old_hospital_bed_pbrgr/Materials/material",
+				"/Game/Props/Atico/old_hospital_bed_pbrgr/Materials/mattress",
+				"/Game/Props/Atico/old_sofa/Materials/material",
+				"/Game/Props/Atico/old_sofa/Materials/material_1",
+				"/Game/Props/Atico/old_sofa/Materials/material_2",
+				"/Game/Props/Atico/old_sofa/Materials/material_3",
+				"/Game/Props/Atico/old_sofa/Materials/material_4",
+				"/Game/Props/Atico/old_sofa/Materials/material_5",
+				"/Game/Props/Atico/old_sofa/Materials/material_6",
+				"/Game/Props/Atico/old_tv/Materials/rsMaterial3SG",
+				"/Game/Props/Atico/soldier_cap/Materials/Scene_-_Root",
+				"/Game/Props/Banio/toilet_paper_holder_-_12mb/Materials/Scene_-_Root",
+				"/Game/Props/Banio/无标题/Materials/Scene_-_Root",
+				"/Game/Props/Cocina/broom_-_escoba/Materials/VRayMtl2SG",
+				"/Game/Props/Cocina/simple_outdoor_brooms_type_b/Materials/Simple_Outdoor_Broom_Type_B_Red",
+				"/Game/Props/Cocina/teapot___lowpoly_download/Materials/pava_low_UV_Pava",
+				"/Game/Props/Cocina/yerba_mate_diorama/Materials/BOMBILA",
+				"/Game/Props/Cuadros/horror_frame/Materials/SS_Circle_Frame",
+				"/Game/Props/Cuadros/horror_frame/Materials/SS_frame03",
+				"/Game/Props/Cuadros/horror_frame/Materials/SS_Frame1",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/Ballerina",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/handle",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/JewleryBox",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/JewleryBoxDrawer",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/JewleryBoxLid",
+				"/Game/Props/Cuarto_nenes/ballerina_jewellery_box/Materials/Mirror",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/duck_plush/Materials/01_-_Default",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/books6upAMaterial3",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/cans4upMaterial",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/chairMaterial",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/deskMaterial",
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/lampMaterial",
+				"/Game/Props/Cuarto_nenes/kids_dresser_chest_of_drawers/Materials/Drawers",
+				"/Game/Props/Cuarto_nenes/kids_dresser_chest_of_drawers/Materials/Dresser",
+				"/Game/Props/Cuarto_nenes/kids_dresser_chest_of_drawers/Materials/DresserHandles",
+				"/Game/Props/Cuarto_nenes/sillanenas/Materials/wire_177027088",
+				"/Game/Props/CuartoPadres/rosary_-_historic_environment_scotland/Materials/wire_115115115",
+				"/Game/Props/CuartoPadres/rosary_-_historic_environment_scotland/Materials/wire_153228184",
+				"/Game/Props/CuartoPadres/rosary_-_historic_environment_scotland/Materials/wire_088177027",
+				"/Game/Props/Estudio/antique_candle_holder/Materials/Candle",
+				"/Game/Props/Estudio/antique_candle_holder/Materials/Candle_Holder",
+				"/Game/Props/Estudio/medieval_chair/Materials/scaun",
+				"/Game/Props/Estudio/office_desk_-_18mb/Materials/Scene_-_Root",
+				"/Game/Props/Estudio/old_vintage_suitcase__game_ready_asset/Materials/UV_Master_Tester",
+				"/Game/Props/Estudio/pen_and_ink/Materials/lambert1",
+				"/Game/Props/Estudio/typewriter/Materials/typewriter",
+				"/Game/Props/Estudio/victorian_chairs/Materials/Chair_Green",
+				"/Game/Props/Estudio/victorian_clock/Materials/clock_link",
+				"/Game/Props/Estudio/wall-light01/Materials/04___Default01",
+				"/Game/Props/Nucleo_bicho/axe_with_blood/Materials/Scene_-_Root",
+				"/Game/Props/Nucleo_bicho/hangmans_rope_1_/Materials/Reep-03",
+				"/Game/Props/Nucleo_bicho/wooden_cross/Materials/Cross"
+			]
+		},
+		{
+			"ShaderMapHash": "DC5A0D690A8EF73EE8649290A4CD82C9F78BB556",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "04587E6920E61D54725C80F2EA3A926581F7C094",
+			"Assets": [
+				"/Game/Props/comedor/radio/M_raiod",
+				"/Game/Props/general/banquito/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "21CC206B8AF702D8C4B6612F1EF5626562C403BC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "35CF2E6BBB91C5C0D8C32CB60A2D6B2862256116",
+			"Assets": [
+				"/Game/Props/livingRoom/silloncito/Green_Armchair_lowpoly"
+			]
+		},
+		{
+			"ShaderMapHash": "F1BA9B6CCBEB937840DDFE59E2F704B48A9C6D46",
+			"Assets": [
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/glass"
+			]
+		},
+		{
+			"ShaderMapHash": "B88BC16C27618F0D621EBEC8D38047056091AEFA",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E5E7DB6C9D178653E64C4071400DF69EDB830B52",
+			"Assets": [
+				"/Game/materials/vidrio/vidrioventana"
+			]
+		},
+		{
+			"ShaderMapHash": "AB7A2F6ECD43C759F8B3B0A0B8D70B7839D044E0",
+			"Assets": [
+				"/Game/Props/Banio/ropa/ropa",
+				"/Game/Props/comedor/cuadro/Mat-pic",
+				"/Game/Props/comedor/cuadro/Mat_picture",
+				"/Game/Props/general/switchluz",
+				"/Game/Props/livingRoom/cuadro/Glass",
+				"/Game/Props/livingRoom/cuadro/Wood",
+				"/Game/Props/livingRoom/cuadro/WoodBackground",
+				"/Game/Props/livingRoom/cuadro/WoodPaddle"
+			]
+		},
+		{
+			"ShaderMapHash": "89D0B47189A12AC2777AD07500FCEFE29F6A04D8",
+			"Assets": [
+				"/Game/Props/Cocina/glass_cup/Materials/lambert1",
+				"/Game/Props/Estudio/victorian_clock/Materials/glass_clock"
+			]
+		},
+		{
+			"ShaderMapHash": "AE63C971A01AB42F4AE3B57D7FED0C6210056E42",
+			"Assets": [
+				"/MediaPlate/M_MediaPlate_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "A35BCD714A4454310246EB0852C9CCFAE3A55513",
+			"Assets": [
+				"/Game/Props/comedor/sifon_de_soda_retro/Materials/Wireframe"
+			]
+		},
+		{
+			"ShaderMapHash": "3470EE71211B0DDCC43B90AEC2529AD9D6511824",
+			"Assets": [
+				"/Game/Props/armería/Cuchillo/Materials/CUCHILLO",
+				"/Game/Props/Assets_propios/Armario/Materials/Armario",
+				"/Game/Props/Assets_propios/biomboGLB/Materials/Biombo",
+				"/Game/Props/Assets_propios/chimeneaGLB/Materials/Chimenea",
+				"/Game/Props/Assets_propios/dresuarGLB/Materials/Dressuar",
+				"/Game/Props/Assets_propios/escritorioGLB/Materials/Escritorio",
+				"/Game/Props/Assets_propios/pistola/Materials/Detalles_002",
+				"/Game/Props/Assets_propios/pistola/Materials/Pistola_002",
+				"/Game/Props/maquinaGLB/Materials/Maquina",
+				"/Game/Props/maquinaGLB/Materials/teclas"
+			]
+		},
+		{
+			"ShaderMapHash": "959041729E8F6234D985EAA9ACA69989CC90BC2F",
+			"Assets": [
+				"/Game/Props/armería/dartboard_and_darts/Materials/Material_002",
+				"/Game/Props/Banio/rubber_duck/Materials/Material",
+				"/Game/Props/Banio/rubber_duck/Materials/Material_001",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/Blue",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/Blue_001",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/Cube_color",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/Green",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/material",
+				"/Game/Props/Cuarto_nenes/abc_cube_toy/Materials/Yellow",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_001",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_002",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_003",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_004",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_005",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_006",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_007",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_008",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_009",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_010",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_011",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_012",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_013",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_014",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_015",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_016",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_017",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_018",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_019",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_020",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_021",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_022",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_023",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_024",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_025",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_026",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_027",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_028",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_029",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_030",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_031",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_032",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_033",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_034",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_035",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_036",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_037",
+				"/Game/Props/Cuarto_nenes/castle_from_toy_bricks/Materials/Material_038",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Black",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Blue",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/BlueGlossy",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Green",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/material",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Pink",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/RedGlossy",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Yellow",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/YellowGlossy",
+				"/Game/Props/Cuarto_nenes/kids_shelf_no1/Materials/Material_003",
+				"/Game/Props/Cuarto_nenes/kids_shelf_no1/Materials/White_Powder_Coating_Texture",
+				"/Game/Props/Cuarto_nenes/lampe_ours_brown__cute_bear_lamp/Materials/Blanc_ours",
+				"/Game/Props/Cuarto_nenes/lampe_ours_brown__cute_bear_lamp/Materials/Light_ours",
+				"/Game/Props/Cuarto_nenes/lampe_ours_brown__cute_bear_lamp/Materials/Noir_ours",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_135006006",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_135059008",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_225143087",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_255255255",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_016006002",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_023023023",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_045012003",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/black",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/gold",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/Material_001",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/white",
+				"/Game/Props/CuartoPadres/marlboro_cigarettes/Materials/03_-_Default",
+				"/Game/Props/CuartoPadres/variety_of_pills/Materials/material",
+				"/Game/Props/CuartoPadres/variety_of_pills/Materials/Pink",
+				"/Game/Props/CuartoPadres/variety_of_pills/Materials/RoundPill",
+				"/Game/Props/CuartoPadres/variety_of_pills/Materials/White",
+				"/Game/Props/CuartoPadres/variety_of_pills/Materials/WhiteSmooth",
+				"/Game/Props/Estudio/antique_phone/Materials/aiStandardSurface3",
+				"/Game/Props/Estudio/open_book_about_magic/Materials/_001",
+				"/Game/Props/Estudio/open_book_about_magic/Materials/material",
+				"/Game/Props/Estudio/open_book_about_magic/Materials/material_4",
+				"/Game/Props/Nucleo_bicho/cage/Materials/Material",
+				"/Game/Props/psx_bible/Materials/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "DE6078724F8E19EC865C7D5251542D8942CBC82C",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4DF112732DF43210BDA2BA0AEC2162E540759C22",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "56CB2273CB1F0F2BBEA54CC218938A7D58B33477",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A2AF757356BED89461F0E55BCC27E4E94E9856D3",
+			"Assets": [
+				"/Game/Props/livingRoom/tocadiscos/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "3F6B5B7568F2CEC43DDBC0DAAD8DC3031FE0DE71",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CF0A3877B898ED103EA2B771DF44D654089198D2",
+			"Assets": [
+				"/Game/FogArea/Materials/Base/MI_FogArea_Shafts"
+			]
+		},
+		{
+			"ShaderMapHash": "BD0E3F778DE350D68596E20ED820D4F804C24290",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1FDB4C778E9E6F19CAA0091485FB457EE5B1D4D4",
+			"Assets": [
+				"/Game/materials/madera_piso_casa/piso_madera_m"
+			]
+		},
+		{
+			"ShaderMapHash": "C7E08C77AB303120AFA5BE90E19C690DD1173785",
+			"Assets": [
+				"/Game/Props/armería/army_transmitter/Materials/HARRIS",
+				"/Game/Props/armería/military_radio/Materials/dark"
+			]
+		},
+		{
+			"ShaderMapHash": "B2A3B87792BFED3B8F3BC5D4262A008D7227EA96",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "283F997BE144224D5D25855304C84E7B72C8CB27",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57B4AA7DCBB2E668209A828180A766B0F0580B13",
+			"Assets": [
+				"/Game/Props/armería/blacksmith_table/Materials/M_Blacksmith_Table",
+				"/Game/Props/armería/checkpoint_building/Materials/lambert51",
+				"/Game/Props/armería/drawer_of_blacksmith_table_-_a/Materials/M_Blacksmith_Table_Draw",
+				"/Game/Props/armería/green_dart/Materials/Dart",
+				"/Game/Props/armería/mate_argentino_-_lowpoly_-_free_download/Materials/Mate",
+				"/Game/Props/Atico/12_old_books/Materials/Book1",
+				"/Game/Props/Atico/12_old_books/Materials/Book10",
+				"/Game/Props/Atico/12_old_books/Materials/Book11",
+				"/Game/Props/Atico/12_old_books/Materials/Book12",
+				"/Game/Props/Atico/12_old_books/Materials/Book2",
+				"/Game/Props/Atico/12_old_books/Materials/Book3",
+				"/Game/Props/Atico/12_old_books/Materials/Book4",
+				"/Game/Props/Atico/12_old_books/Materials/Book5",
+				"/Game/Props/Atico/12_old_books/Materials/Book6",
+				"/Game/Props/Atico/12_old_books/Materials/Book7",
+				"/Game/Props/Atico/12_old_books/Materials/Book8",
+				"/Game/Props/Atico/12_old_books/Materials/Book9",
+				"/Game/Props/Atico/old_plaid_sofa/Materials/cushions",
+				"/Game/Props/Atico/old_plaid_sofa/Materials/sofabase",
+				"/Game/Props/Atico/old_wooden_table/Materials/Wooden_Table",
+				"/Game/Props/Banio/broken_mirror/Materials/material",
+				"/Game/Props/Banio/perwoll_detergent_3d_model/Materials/Bottle",
+				"/Game/Props/Cocina/bucket/Materials/Material",
+				"/Game/Props/Cocina/yerba_mate_diorama/Materials/MATERO",
+				"/Game/Props/comedor/old_fireplace/Materials/02___Default",
+				"/Game/Props/Cuarto_nenes/wooden_duck_toy/Materials/DefaultMaterial_1001",
+				"/Game/Props/CuartoPadres/old_wooden_crucifix/Materials/Material_002",
+				"/Game/Props/CuartoPadres/old_wooden_crucifix/StaticMeshes/nail/Materials/Nail_lp",
+				"/Game/Props/Entrada/dilapidated_wooden_spiral_staircase/Materials/wood",
+				"/Game/Props/Entrada/dilapidated_wooden_spiral_staircase/Materials/wood_0",
+				"/Game/Props/Estudio/fancy_picture_frame/Materials/initialShadingGroup",
+				"/Game/Props/Estudio/leather_books/Materials/Book_Cover",
+				"/Game/Props/Estudio/leather_books/Materials/Book_Paper",
+				"/Game/Props/Estudio/victorian_clock/Materials/lambert1",
+				"/Game/Props/Estudio/victorian_curtains/Materials/curtains_cloth",
+				"/Game/Props/Estudio/western_rocking_chair/Materials/lambert2",
+				"/Game/Props/Nucleo_bicho/horror_bed/Materials/material",
+				"/Game/Props/Nucleo_bicho/zombie_monster_slasher_necromorph/Materials/Scene_-_Root"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8E54803805AF180E662BC7E8004DC013E32567",
+			"Assets": [
+				"/Game/Props/Cocina/tostadora/Color"
+			]
+		},
+		{
+			"ShaderMapHash": "983F5683AF3E2C6DDFFC686A2B87EFF1B25AD35A",
+			"Assets": [
+				"/Game/Props/letras/Dibujo3"
+			]
+		},
+		{
+			"ShaderMapHash": "AC59AF8385FB3CBB0157B5782D4594357E5F38DD",
+			"Assets": [
+				"/Game/Props/Cuarto_nenes/cucheta/madera_cama_txt"
+			]
+		},
+		{
+			"ShaderMapHash": "3A8A568423D015FF70D934AD460411F890B28C09",
+			"Assets": [
+				"/Game/Props/Cocina/DIARIO/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "383B2986F73536645332338876CA9C76473D9F4B",
+			"Assets": [
+				"/Game/Props/Cocina/mixer/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "C1D38E88203794E3EF4F959A4D529B711FEEB415",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F75A6884D4BCDBF30271DF84631AA55A47DDE5D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B1396D89FA4DD7D8C8A1F650A42621B2B16C9186",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "ABA6C689EC09FEFDFF18E9823BAF82466A2F66F9",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C671338BE659DE3AF9C98878D345599AA800193D",
+			"Assets": [
+				"/Game/Props/letras/Dibujo0",
+				"/Game/Props/letras/Dibujo2"
+			]
+		},
+		{
+			"ShaderMapHash": "9DB68E8C40C4016EB465EF5DB6FC9D9BF7775E4A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "AF73428D74F75EDFEBCAC5C11F4FD03A1288DAD2",
+			"Assets": [
+				"/Game/Props/Cuadros/horror_frame/Materials/SS_Frame2"
+			]
+		},
+		{
+			"ShaderMapHash": "97EEA78ECB05F3FA5854D314159D663BC7B326BD",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C46D9990A42AEB35811CB8D91C4941304B3D0EC1",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "9CDD3991CE201F57284E30A9E3D74B72B69C0553",
+			"Assets": [
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/BOOKS"
+			]
+		},
+		{
+			"ShaderMapHash": "D94CDA9121056DE5354C8E9FF57D52F7F703A141",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1F310A92560708729AFDFF0AE36DCDAB9C41E4C2",
+			"Assets": [
+				"/Game/Props/Cocina/tostadora/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "AE004F930A170B735A3855207F1D03B3327D944C",
+			"Assets": [
+				"/Game/Props/comedor/planta/Burnished_Clay_Pot"
+			]
+		},
+		{
+			"ShaderMapHash": "6173D193219E4DA7179DB5BAC765EBEBBA1D59FF",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DC573894376751682122600AE15F9B9B8813FF4E",
+			"Assets": [
+				"/Game/Props/CuartoPadres/luzmesita/M_lamp_1_base"
+			]
+		},
+		{
+			"ShaderMapHash": "EF9EB695E547411658689AE577A60B3C6E5F380A",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3C5FB9959C263BE1B3E41B8E4BE6AC9E86E5B666",
+			"Assets": [
+				"/Game/Props/Cocina/licuadora/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "BFBC1198D1F5D12873668C07C5A2294AD4C05ABB",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "4FC00A9B205CE57E2888DB8FC6876718871E7BF0",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8949639C8E1E1826A3B3BD80FA6B96FDA6ECC400",
+			"Assets": [
+				"/Game/Props/Banio/baniadera/2023-11-18_20-48-03/Materials/Export_canvas_GLB",
+				"/Game/Props/Cuadros/framed_painting/Materials/Frame",
+				"/Game/Props/Cuadros/framed_painting/Materials/Image"
+			]
+		},
+		{
+			"ShaderMapHash": "0206E99DC33E7096A89D09A83786F7FF63545FCA",
+			"Assets": [
+				"/Game/Props/Banio/jabones/Material__46",
+				"/Game/Props/Banio/jabones/Material__47",
+				"/Game/Props/Banio/jabones/Material__48",
+				"/Game/Props/Banio/jabones/Material__49"
+			]
+		},
+		{
+			"ShaderMapHash": "72982A9E4B6F1E9C994B3EC624C876D219F15EE3",
+			"Assets": [
+				"/Game/Props/Assets_propios/velador/velador"
+			]
+		},
+		{
+			"ShaderMapHash": "F867FC9E3E7B0918F982331B7238B716F63E522B",
+			"Assets": [
+				"/Game/Props/Cuarto_nenes/play-doh_clay_compound/Materials/Krushka"
+			]
+		},
+		{
+			"ShaderMapHash": "18099DA0A796241145702C54F003A61EFA8A200D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F0A61DA25B39C2766E9FC2DBC03038EB7415F4E8",
+			"Assets": [
+				"/Game/Props/Cocina/heladera/Mat_1"
+			]
+		},
+		{
+			"ShaderMapHash": "4FB6C0A2A6F0854AC2B7AC0691AC13429D20AC09",
+			"Assets": [
+				"/Game/Props/Atico/dusty_old_bookshelf_free/Materials/Old_Dusty_Bookshelf_Mat",
+				"/Game/Props/Nucleo_bicho/meat_piece_raw/Materials/Meat_piece_mat",
+				"/Game/Props/Nucleo_bicho/severed_hands_low_poly/Materials/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "172D75A54879D9AA868011373999B39F7F71BD95",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D0F69FA69536173C669DA45F143FB266847BD74A",
+			"Assets": [
+				"/Game/Props/CuartoPadres/labial/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D5EBD3A7A14E94A9D5C1B00C77EF21B890792DD9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1EF1F2A7ACD64FE6586CE17B1A840AFC53ABC75F",
+			"Assets": [
+				"/Game/Props/letras/Dibujo1"
+			]
+		},
+		{
+			"ShaderMapHash": "F16556AA83838FC829400A45ACE58A535EB21D54",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "34E081AAA5A324E7ACAACD5C7027D8F753FBCB49",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F8A6C6AAF043DCEE8191AA0837A9B6A09E54269F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B153BAB6D17115FBB71043152DCE711B57F6BD1",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/M_VFX_Erosion"
+			]
+		},
+		{
+			"ShaderMapHash": "8F014DABCA2699F713C4BFF28F7468F9B97D9F19",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "A518FEAB40FD61B25607294851FBCBBFFCF898B5",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "9BA83FAC8EE24C0382A74C1A6FBA14F2C0F98258",
+			"Assets": [
+				"/Game/Props/Cocina/cocinaArriba/glass",
+				"/Game/Props/Cocina/mueble/glass",
+				"/Game/Props/Cocina/mueble/Material_001",
+				"/Game/Props/Cocina/mueblecito/Material_001",
+				"/Game/Props/Cocina/muebleEntero/glass",
+				"/Game/Props/Cocina/muebleEntero/Material_001",
+				"/Game/Props/comedor/mueble2/RetroBoard",
+				"/Game/Props/general/escaleritamia/Escalera_001"
+			]
+		},
+		{
+			"ShaderMapHash": "880E9CACF379A059040C3FD79D1B884653A8A699",
+			"Assets": [
+				"/Game/Props/Cuarto_nenes/kids_desk_set/Materials/paperMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "91A6A0ACD7F346E36528B5238F715D95CE8CDFEE",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "1219F4AD9F87B66F1DA3D91410D8EFAEC7B0892E",
+			"Assets": [
+				"/Game/Props/Cocina/tostadora/BlackPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "3FBFBEAF8F158D0C46C493DC5F8F9559FB1D35AF",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0CD22BB335CC71D460641E91FA6201467E4966E3",
+			"Assets": [
+				"/Game/Props/Cocina/heladera/Mat_4"
+			]
+		},
+		{
+			"ShaderMapHash": "5FE554B41A4416573E431DB0B1E8FD6947F3A512",
+			"Assets": [
+				"/Game/Props/Banio/jabones/03_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "A2D726B5573B95508A8147D651AD919BD119971C",
+			"Assets": [
+				"/Game/Props/Cocina/licuadora/Color"
+			]
+		},
+		{
+			"ShaderMapHash": "129CC9B6D64B5212B47E0972CAC7C3CD28E4AEB8",
+			"Assets": [
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/logo2"
+			]
+		},
+		{
+			"ShaderMapHash": "3C53EAB734B5A89913BBB24F64AE630E1B9213A6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "85023EB8DBFE797A1E8FEDD6AA2D1C0A7400FE9E",
+			"Assets": [
+				"/Game/Vefects/Free_Fire/Shared/Materials/M_VFX_HeatDistortion"
+			]
+		},
+		{
+			"ShaderMapHash": "C6338EBA07B65633E34B4124D325DD4619EB17D3",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "62F7A6BA18F5DA50B8E76F43C6DAE4C5CC7E9DE7",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "42BAEBBA300F538BB9799F69BD6FDAA455214FF6",
+			"Assets": [
+				"/Game/Props/livingRoom/tv/screenReflect",
+				"/Game/Props/livingRoom/tv/wood"
+			]
+		},
+		{
+			"ShaderMapHash": "99FA15BDFE240701AC1BB577CEDF06C68FE29C2C",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FDF893BE611313850023F1403D903FFAB8009CBD",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultOddSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "32C56EC04DB3BCEB3325057ABA1E69974C20DDC0",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E3EA29C1405BC833AB4AE170A2049916A12B3C66",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A0317EC2A75E821220A794C529833AA59274E1D9",
+			"Assets": [
+				"/Game/Props/CuartoPadres/luzmesita/M_lamp_bulb"
+			]
+		},
+		{
+			"ShaderMapHash": "F88795C22029E8F224199CBA4D8D8A43CD65EC41",
+			"Assets": [
+				"/Game/materials/pisobaño/pisobanio",
+				"/Game/materials/Puerta_text/Mango",
+				"/Game/materials/Puerta_text/Puerta",
+				"/Game/Props/armería/revolverlpm/Materials/rev_m",
+				"/Game/Props/Assets_propios/Candelabro/candelabro",
+				"/Game/Props/Banio/baniadera/lambert1",
+				"/Game/Props/Banio/baniadera/Material_001",
+				"/Game/Props/Banio/lavamanos/bronze",
+				"/Game/Props/Banio/lavamanos/ceramicaceleste",
+				"/Game/Props/Banio/lavarropas/Material",
+				"/Game/Props/Banio/lavarropas/Material_003",
+				"/Game/Props/Cocina/sillas/siilaa",
+				"/Game/Props/comedor/candelabro/m_",
+				"/Game/Props/CuartoPadres/espejo/mirrorA_Mat",
+				"/Game/Props/CuartoPadres/luztecho/luztecho",
+				"/Game/Props/CuartoPadres/ropero/ropero",
+				"/Game/Props/CuartoPadres/valijas/phong1",
+				"/Game/Props/general/espejomaquillaje/maquiillajeespejo",
+				"/Game/Props/livingRoom/sillon/m_sofa"
+			]
+		},
+		{
+			"ShaderMapHash": "FDCFF0C398B3C5530194D457A47725C916317550",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "16056EC51B9971BA659704233276AF119E1939E5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5F76BDC69D90383D4939F096F2B56505F0D28E01",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "066C11C7E151AF74607D633AC8D6BC10C4F2E977",
+			"Assets": [
+				"/Game/Props/comedor/planta2/lambert3"
+			]
+		},
+		{
+			"ShaderMapHash": "87B9E9C740449248D8A9B58F835A520F9595415F",
+			"Assets": [
+				"/Game/Props/Cocina/mixer/Plastic2"
+			]
+		},
+		{
+			"ShaderMapHash": "66144EC93EC06903FC18E0AD6E004FC9D7F3FA9F",
+			"Assets": [
+				"/Game/Props/Banio/laundy/Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "31C029CEE35A0826B486492383607FEC1C1FC1E7",
+			"Assets": [
+				"/Game/Props/comedor/mueble3/m"
+			]
+		},
+		{
+			"ShaderMapHash": "D185C8CE633C7D07DA385EE7213CFD54FA7618D2",
+			"Assets": [
+				"/Game/Props/Atico/old_clock/Materials/clockGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "08634DCFD03A0194CD22AC85C50934936C6E7461",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "88F3D8CFBB8F1EC61289CA3F7BB93549FC47210C",
+			"Assets": [
+				"/Game/Props/Cocina/cocinaAbajo/Material_001",
+				"/Game/Props/Cocina/cocinaArriba/Material_001",
+				"/Game/Props/Cocina/horno/03_-_Default",
+				"/Game/Props/Cocina/lababo/Material_001",
+				"/Game/Props/Cocina/lababo/Sink",
+				"/Game/Props/Cocina/propsVarios/DefaultMaterial",
+				"/Game/Props/comedor/alfombra/Doormate",
+				"/Game/Props/comedor/cuadro3/PictureFrame2",
+				"/Game/Props/comedor/mesa/Chair",
+				"/Game/Props/comedor/mesa/Table",
+				"/Game/Props/comedor/mueble1/lambert1",
+				"/Game/Props/CuartoPadres/cama/bed_mattres_material",
+				"/Game/Props/CuartoPadres/cama/bed_pillow_material",
+				"/Game/Props/CuartoPadres/cama/bed_wood_material",
+				"/Game/Props/livingRoom/tocadiscos/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "6A291BD14A3D09A92959CADDC06C4707D71A32A0",
+			"Assets": [
+				"/Game/Props/armería/argentina_yerba_playadito_psx/Materials/Material_002",
+				"/Game/Props/armería/dartboard_and_darts/Materials/Material_001",
+				"/Game/Props/Atico/cinta1/Materials/Material_001",
+				"/Game/Props/Atico/cinta2/Materials/Material_001",
+				"/Game/Props/Atico/occult_books/Materials/back",
+				"/Game/Props/Atico/occult_books/Materials/cover",
+				"/Game/Props/Atico/occult_books/Materials/cover1",
+				"/Game/Props/Atico/occult_books/Materials/cover2",
+				"/Game/Props/Atico/occult_books/Materials/cover2_001",
+				"/Game/Props/Atico/occult_books/Materials/cover3",
+				"/Game/Props/Atico/occult_books/Materials/cover4",
+				"/Game/Props/Atico/occult_books/Materials/cover5",
+				"/Game/Props/Atico/occult_books/Materials/page1",
+				"/Game/Props/Atico/occult_books/Materials/page2",
+				"/Game/Props/Atico/occult_books/Materials/page2_001",
+				"/Game/Props/Atico/occult_books/Materials/page3",
+				"/Game/Props/Atico/occult_books/Materials/page5",
+				"/Game/Props/Atico/occult_books/Materials/pageee",
+				"/Game/Props/Atico/occult_books/Materials/pageone",
+				"/Game/Props/Atico/occult_books/Materials/pagetwo",
+				"/Game/Props/Atico/occult_books/Materials/peage4",
+				"/Game/Props/Atico/window_to_the_dead/Materials/Material_26",
+				"/Game/Props/Banio/duck_soap_dish/Materials/M_Ordek",
+				"/Game/Props/Banio/rubber_duck/Materials/Material_003",
+				"/Game/Props/Banio/shelf_m/Materials/01_-_Default",
+				"/Game/Props/comedor/empanada_lowpoly/Materials/CustomMaterial",
+				"/Game/Props/Cuadros/photo_frame_2/Materials/frame2",
+				"/Game/Props/Cuarto_nenes/cash_register/Materials/GeneratedMat2",
+				"/Game/Props/Cuarto_nenes/cash_register/Materials/material0000",
+				"/Game/Props/Cuarto_nenes/cash_register/Materials/material0001",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Insect1",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Insect2",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Insect3",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Insect4",
+				"/Game/Props/Cuarto_nenes/kid_toy_low_poly/Materials/Wood",
+				"/Game/Props/Cuarto_nenes/play-doh_clay_compound/Materials/Material1",
+				"/Game/Props/Cuarto_nenes/spider_doll_3_/Materials/Material_0_001",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/clothing_ss",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/face_ss",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/sinta",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_229166215",
+				"/Game/Props/Cuarto_nenes/strawberry_shortcake_2003/Materials/wire_086086086",
+				"/Game/Props/CuartoPadres/coco_mademoiselle_chanel_paris_parfum/Materials/logo",
+				"/Game/Props/Estudio/open_book_about_magic/Materials/_001_3",
+				"/Game/Props/Estudio/open_book_about_magic/Materials/material_1",
+				"/Game/Props/Nucleo_bicho/lamb_in_carcass/Materials/EXTERIOR",
+				"/Game/Props/Nucleo_bicho/lamb_in_carcass/Materials/INTERIOR",
+				"/Game/Props/Nucleo_bicho/meat/Materials/Iceage_Meat_D",
+				"/Game/Props/psx_bible/Materials/leather",
+				"/Game/Props/psx_bible/Materials/pages"
+			]
+		},
+		{
+			"ShaderMapHash": "2A7C43D1852CF719B8A8D8663E2A9619AB8C7BB2",
+			"Assets": [
+				"/Game/Props/Cocina/licuadora/Label",
+				"/Game/Props/Cocina/mixer/Label1",
+				"/Game/Props/Cocina/tostadora/Label1",
+				"/Game/Props/comedor/mueble2/RetroBoard_Door"
+			]
+		},
+		{
+			"ShaderMapHash": "C55271D15BBBFB227D46116B4F7D629603701B7F",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "D5BA1DD3BF1C4CCDC5BE13FF87BDC00B754497F6",
+			"Assets": [
+				"/Game/Props/comedor/mueble1/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "78036AD3801534770D072F722AC242924433EA80",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "096245D4E8AA55DCD5EAC6C20ED3483B81F081E4",
+			"Assets": [
+				"/Game/Props/Cocina/heladera/Mat_5"
+			]
+		},
+		{
+			"ShaderMapHash": "551AFDD49C0051B65E663E2C685644B37126FC7A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "3769B9D6ED941510AA6361321A80823815BBE95C",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0A171DD80CA70EA8973F37F2CC2E83036E8EEBB8",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "C9EE45DA1FF58ACE12C8ECECDE679BC6AE93EE4D",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "F7E664DADC5B7289028ED59863CBBAF8C42C1376",
+			"Assets": [
+				"/Game/Props/Banio/baniadera/2023-11-18_20-48-03/Materials/Canvas_back_export",
+				"/Game/Props/Banio/toilet_paper/Materials/material_0"
+			]
+		},
+		{
+			"ShaderMapHash": "FE9B8EDADE0383B95A7AC97E49C9594BEEEF0636",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultEvenSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "0C4ED8DAF45C9D826A470F2B8A3635504FE166B6",
+			"Assets": [
+				"/Game/Props/comedor/cuadro2/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "F82A53DEE31FD96D66BD97DFC9B3277170156386",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F9E06CDE6543B8424EC92EB6496BF2343A9C905A",
+			"Assets": [
+				"/Game/Props/armería/revolverlpm/Materials/REVOLVER"
+			]
+		},
+		{
+			"ShaderMapHash": "DB26DCDE34BA3E6F52399D98974ACEA83114A268",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "6D282EDF4DDB053162C40834C63508DC2B2CEE38",
+			"Assets": [
+				"/Game/Props/CuartoPadres/mesitaLuz/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "274C3CE1EC7FE7909362A61B32D46678B0636692",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "243776E28EFA83AF5F73A9D8190A1227907D0A39",
+			"Assets": [
+				"/Game/materials/madera_text/material_madera",
+				"/Game/materials/MasterMaterial/MasterMaterial",
+				"/Game/materials/techo/material_madera"
+			]
+		},
+		{
+			"ShaderMapHash": "085E81E44C25D3AED1243E354C2C3502C523C835",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "93FAD4E4190E0D8FA3F5CEAA6FBA597C97B3A8E2",
+			"Assets": [
+				"/Game/Props/Cocina/tostadora/Light"
+			]
+		},
+		{
+			"ShaderMapHash": "5F6D84E84DFD85560FEAB7604D5C9FF83A1AD52E",
+			"Assets": [
+				"/Game/Props/Cuadros/old_photo/Materials/back_001",
+				"/Game/Props/Cuadros/old_photo/Materials/front_001"
+			]
+		},
+		{
+			"ShaderMapHash": "91AE81EA8E092D68A8F0D9906A6D1118B29223DA",
+			"Assets": [
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/SHKAF_ALBEDO",
+				"/Game/Props/livingRoom/biblioteca+/bookshelf/Materials/SHKAFF_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "8BA9B0EAD59DD23524B3EF22FEFF115BBAC37A2E",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D4AACBEA22400734C54FF03EB2AF1C45F9644521",
+			"Assets": [
+				"/Game/Props/Estudio/antique_candle_holder/Materials/Flame"
+			]
+		},
+		{
+			"ShaderMapHash": "DF4136EBF020DA114DA0143B2076E01133DCE9C9",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A7E385EC72B1512D952814EAA52AAB7D01350EA7",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6640C7EFEDE1DCBA3DE0CD10FED6EFCF9D7E2501",
+			"Assets": [
+				"/Game/Props/CuartoPadres/espejito/CosmeticMirror3"
+			]
+		},
+		{
+			"ShaderMapHash": "B10CFBEFFE94E287A407829BBB6674C3716BB60F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F47E25F16713CBA52606B3A1BE8AB6BD32FF73A4",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "226B89F38E055EEB860D64A057DD68396FD93D61",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "079D27F5F9F0E885A60ECA01CDB847CF084F9257",
+			"Assets": [
+				"/Game/Props/comedor/planta2/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "AAD05CF5004096C01902B1171EB90ACD3A697D29",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "414F1BF66EB63BC472A53139E6D957D3C20467DE",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "46FF5CF6036537DF41CF186662204B196690BE29",
+			"Assets": [
+				"/Game/Props/comedor/cuadro2/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "6C80B2F7C0D18C09B36E47650B2A91108C433BA6",
+			"Assets": [
+				"/Game/Props/Estudio/antique_phone/Materials/aiStandardSurface2"
+			]
+		},
+		{
+			"ShaderMapHash": "0DBE69FD91C60B68F6CA754BD45881F3790BA93F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "C536CFFD897E82A21F95DE80FFCF99F96BF4A341",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36EC6AFE375F45BF418250CDC6842D0262FD2561",
+			"Assets": [
+				"/Game/Props/Cocina/mesa/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "E67CF9FF5B17A34C0582C24EBFC33DD722511DC3",
+			"Assets": [
+				"/Game/Props/comedor/tronco_lungo_s1/Materials/TroncoLungoS1"
+			]
+		}
+	]
+}
